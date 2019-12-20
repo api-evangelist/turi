@@ -1,0 +1,45 @@
+{
+    "name": "Turi",
+    "description": "<p>Turi provides an agile machine learning platform for developers to build intelligent applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/turi-logo.png",
+    "tags": [
+        "have api",
+        "machine learning",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/turi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Turi",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/turi-logo.png",
+            "humanURL": "https:\/\/turi.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/turi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/turi-code"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/turiinc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/turi.com\/"
+        }
+    ]
+}
